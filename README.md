@@ -4,7 +4,14 @@
 
 2. pyGMTSAR GPT Assistant - https://chatgpt.com/g/g-rHoTFLwK7-insar-dev-python-insar-assistant
 
+3. Time series analysis with HyP3 ISCE2 burst InSAR products and MintPy - [Code](https://github.com/ASFHyP3/hyp3-docs/blob/main/docs/tutorials/hyp3_isce2_burst_stack_for_ts_analysis.ipynb)
 
+4. Algorithms - [Code](https://github.com/manmeet3591/climatedownscalesuite/blob/main/climatedownscalesuite_v2.ipynb)
+
+
+
+### Dataset
+https://www.earthdata.nasa.gov/news/opera-project-releases-level-3-displacement-products
 
 
 
