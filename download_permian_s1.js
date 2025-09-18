@@ -1,5 +1,5 @@
 // Define the area of interest (AOI) as Austin, Texas with a rectangular buffer
-var austinCoords = ee.Geometry.Point([-101.585, 31.59]);
+var austinCoords = ee.Geometry.Point([-104.5, 31.75]);
 var bufferSize = 25000; // 10 km
 
 // Create a rectangular buffer around the point
